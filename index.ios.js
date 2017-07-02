@@ -4,4 +4,4 @@ import {
 
 import App from './src/App'
 
-AppRegistry.registerComponent('ChatApp', function() => App);
+AppRegistry.registerComponent('ChatApp', () => App);
